@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0d0eaa596310be944ae2d6611bb27068
+timeCreated: 1496032843
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - _WaterParticle: {fileID: 198962242065814230, guid: bba7fd4febcaf2747a293287e319f0d6,
+      type: 2}
+  - _SeedParticle: {fileID: 198749177078657030, guid: ac1d89a57756ed24d95d9ec09244d63e,
+      type: 2}
+  - _DirtyDustParticle: {fileID: 198386745537505656, guid: 1de17d9ab136a994ebd9ed9a6fbe7df2,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

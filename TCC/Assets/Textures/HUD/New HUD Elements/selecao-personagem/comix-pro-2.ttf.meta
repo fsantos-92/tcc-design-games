@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d8384c7ccd1464a47bfc7f0d5a56c536
+timeCreated: 1494103146
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: comix-pro-2
+  fontNames:
+  - comix-pro-2
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

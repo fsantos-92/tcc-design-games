@@ -1,0 +1,554 @@
+fileFormatVersion: 2
+guid: 50386f553ed3dc147b8d7b215fc131d6
+timeCreated: 1496089100
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: joint_Cabeca
+    100002: joint_COG
+    100004: joint_CotoveloD
+    100006: joint_CotoveloE
+    100008: joint_joelhoD
+    100010: joint_joelhoE
+    100012: joint_MaoD
+    100014: joint_MaoE
+    100016: joint_OmbroD
+    100018: joint_OmbroE
+    100020: joint_PeD
+    100022: joint_PeE
+    100024: joint_Peito
+    100026: joint_pernaD
+    100028: joint_pernaE
+    100030: joint_Pescoco
+    100032: joint_PontaPeD
+    100034: joint_PontaPeE
+    100036: joint_ROOT
+    100038: nurbsCircle1
+    100040: nurbsCircle10
+    100042: nurbsCircle11
+    100044: nurbsCircle12
+    100046: nurbsCircle13
+    100048: nurbsCircle14
+    100050: nurbsCircle15
+    100052: nurbsCircle2
+    100054: nurbsCircle3
+    100056: nurbsCircle4
+    100058: nurbsCircle5
+    100060: nurbsCircle6
+    100062: nurbsCircle7
+    100064: nurbsCircle8
+    100066: nurbsCircle9
+    100068: //RootNode
+    400000: joint_Cabeca
+    400002: joint_COG
+    400004: joint_CotoveloD
+    400006: joint_CotoveloE
+    400008: joint_joelhoD
+    400010: joint_joelhoE
+    400012: joint_MaoD
+    400014: joint_MaoE
+    400016: joint_OmbroD
+    400018: joint_OmbroE
+    400020: joint_PeD
+    400022: joint_PeE
+    400024: joint_Peito
+    400026: joint_pernaD
+    400028: joint_pernaE
+    400030: joint_Pescoco
+    400032: joint_PontaPeD
+    400034: joint_PontaPeE
+    400036: joint_ROOT
+    400038: nurbsCircle1
+    400040: nurbsCircle10
+    400042: nurbsCircle11
+    400044: nurbsCircle12
+    400046: nurbsCircle13
+    400048: nurbsCircle14
+    400050: nurbsCircle15
+    400052: nurbsCircle2
+    400054: nurbsCircle3
+    400056: nurbsCircle4
+    400058: nurbsCircle5
+    400060: nurbsCircle6
+    400062: nurbsCircle7
+    400064: nurbsCircle8
+    400066: nurbsCircle9
+    400068: //RootNode
+    7400000: Player_Walk
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Player_Walk
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 36
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: joint_ROOT
+        weight: 1
+      - path: joint_ROOT/joint_COG
+        weight: 1
+      - path: joint_ROOT/joint_COG/joint_Peito
+        weight: 1
+      - path: joint_ROOT/joint_COG/joint_Peito/joint_OmbroD
+        weight: 1
+      - path: joint_ROOT/joint_COG/joint_Peito/joint_OmbroD/joint_CotoveloD
+        weight: 1
+      - path: joint_ROOT/joint_COG/joint_Peito/joint_OmbroD/joint_CotoveloD/joint_MaoD
+        weight: 1
+      - path: joint_ROOT/joint_COG/joint_Peito/joint_OmbroE
+        weight: 1
+      - path: joint_ROOT/joint_COG/joint_Peito/joint_OmbroE/joint_CotoveloE
+        weight: 1
+      - path: joint_ROOT/joint_COG/joint_Peito/joint_OmbroE/joint_CotoveloE/joint_MaoE
+        weight: 1
+      - path: joint_ROOT/joint_COG/joint_Peito/joint_Pescoco
+        weight: 1
+      - path: joint_ROOT/joint_COG/joint_Peito/joint_Pescoco/joint_Cabeca
+        weight: 1
+      - path: joint_ROOT/joint_COG/joint_pernaD
+        weight: 1
+      - path: joint_ROOT/joint_COG/joint_pernaD/joint_joelhoD
+        weight: 1
+      - path: joint_ROOT/joint_COG/joint_pernaD/joint_joelhoD/joint_PeD
+        weight: 1
+      - path: joint_ROOT/joint_COG/joint_pernaD/joint_joelhoD/joint_PeD/joint_PontaPeD
+        weight: 0
+      - path: joint_ROOT/joint_COG/joint_pernaE
+        weight: 1
+      - path: joint_ROOT/joint_COG/joint_pernaE/joint_joelhoE
+        weight: 1
+      - path: joint_ROOT/joint_COG/joint_pernaE/joint_joelhoE/joint_PeE
+        weight: 1
+      - path: joint_ROOT/joint_COG/joint_pernaE/joint_joelhoE/joint_PeE/joint_PontaPeE
+        weight: 0
+      - path: nurbsCircle1
+        weight: 0
+      - path: nurbsCircle1/nurbsCircle2
+        weight: 0
+      - path: nurbsCircle1/nurbsCircle2/nurbsCircle3
+        weight: 0
+      - path: nurbsCircle1/nurbsCircle4
+        weight: 0
+      - path: nurbsCircle1/nurbsCircle4/nurbsCircle5
+        weight: 0
+      - path: nurbsCircle1/nurbsCircle6
+        weight: 0
+      - path: nurbsCircle1/nurbsCircle6/nurbsCircle7
+        weight: 0
+      - path: nurbsCircle1/nurbsCircle6/nurbsCircle7/nurbsCircle8
+        weight: 0
+      - path: nurbsCircle1/nurbsCircle6/nurbsCircle7/nurbsCircle8/nurbsCircle10
+        weight: 0
+      - path: nurbsCircle1/nurbsCircle6/nurbsCircle7/nurbsCircle8/nurbsCircle10/nurbsCircle11
+        weight: 0
+      - path: nurbsCircle1/nurbsCircle6/nurbsCircle7/nurbsCircle9
+        weight: 0
+      - path: nurbsCircle1/nurbsCircle6/nurbsCircle7/nurbsCircle9/nurbsCircle13
+        weight: 0
+      - path: nurbsCircle1/nurbsCircle6/nurbsCircle7/nurbsCircle9/nurbsCircle13/nurbsCircle12
+        weight: 0
+      - path: nurbsCircle1/nurbsCircle6/nurbsCircle7/nurbsCircle14
+        weight: 0
+      - path: nurbsCircle1/nurbsCircle6/nurbsCircle7/nurbsCircle14/nurbsCircle15
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: joint_COG
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_pernaE
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_pernaD
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_joelhoE
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_joelhoD
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_PeE
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_PeD
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Peito
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Pescoco
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_Cabeca
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_OmbroE
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_OmbroD
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_CotoveloE
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_CotoveloD
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_MaoE
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint_MaoD
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Menino(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: nurbsCircle1
+      parentName: Menino(Clone)
+      position: {x: -0.0024643422, y: -0.03961682, z: 1.7763568e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: nurbsCircle2
+      parentName: nurbsCircle1
+      position: {x: -0.032842055, y: 0.041315623, z: 0.0411434}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: nurbsCircle3
+      parentName: nurbsCircle2
+      position: {x: -0, y: -0.00362338, z: -0.0669426}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: nurbsCircle4
+      parentName: nurbsCircle1
+      position: {x: 0.031011898, y: 0.041315615, z: 0.0411434}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: nurbsCircle5
+      parentName: nurbsCircle4
+      position: {x: -1.9095835e-16, y: -0.003623378, z: -0.0669426}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: nurbsCircle6
+      parentName: nurbsCircle1
+      position: {x: -0.00091508863, y: 0.1535607, z: 0.024612136}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: nurbsCircle7
+      parentName: nurbsCircle6
+      position: {x: -0.0010403687, y: 0.099341966, z: -0.0108311605}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: nurbsCircle8
+      parentName: nurbsCircle7
+      position: {x: -0.0577258, y: 0.021400146, z: 0.008588126}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: nurbsCircle10
+      parentName: nurbsCircle8
+      position: {x: -0.07181239, y: -0.0020319938, z: 0.010381098}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: nurbsCircle11
+      parentName: nurbsCircle10
+      position: {x: -0.11246, y: -0.0040649986, z: -0.010381098}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: nurbsCircle9
+      parentName: nurbsCircle7
+      position: {x: 0.05772582, y: 0.021400375, z: 0.00858808}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: nurbsCircle13
+      parentName: nurbsCircle9
+      position: {x: 0.07181215, y: -0.0020324134, z: 0.0103811165}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: nurbsCircle12
+      parentName: nurbsCircle13
+      position: {x: 0.11246053, y: -0.0040648268, z: -0.0103811165}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: nurbsCircle14
+      parentName: nurbsCircle7
+      position: {x: -0.00014456749, y: 0.048206117, z: 0.0108311605}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: nurbsCircle15
+      parentName: nurbsCircle14
+      position: {x: -0.0005486041, y: 0.2713111, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube52
+      parentName: Menino(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_ROOT
+      parentName: Menino(Clone)
+      position: {x: 0.0009150894, y: -0.021849846, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_COG
+      parentName: joint_ROOT
+      position: {x: -0.0009150888, y: 0.1535607, z: 0.024612136}
+      rotation: {x: 0, y: 0, z: -0.0058476534, w: 0.9999829}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Peito
+      parentName: joint_COG
+      position: {x: -0.0022021122, y: 0.099323004, z: -0.0108311605}
+      rotation: {x: 0, y: 0, z: 0.023909833, w: 0.99971414}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Pescoco
+      parentName: joint_Peito
+      position: {x: 0.0015967798, y: 0.04817988, z: 0.0108311605}
+      rotation: {x: 0, y: 0, z: -0.017052578, w: 0.9998546}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_Cabeca
+      parentName: joint_Pescoco
+      position: {x: -4.2743585e-17, y: 0.27131164, z: -8.881784e-18}
+      rotation: {x: 0, y: 0, z: -0.0010110232, w: 0.9999995}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_OmbroE
+      parentName: joint_Peito
+      position: {x: 0.058461156, y: 0.019301303, z: 0.00858808}
+      rotation: {x: -0.022907743, y: 0.023087924, z: -0.7247571, w: 0.6882365}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_CotoveloE
+      parentName: joint_OmbroE
+      position: {x: 3.5527136e-17, y: 0.07184091, z: 0.010381117}
+      rotation: {x: 0.039279312, y: 0.00038421334, z: 0.0019188198, w: 0.9992264}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_MaoE
+      parentName: joint_CotoveloE
+      position: {x: 1.7763568e-15, y: 0.11253398, z: -0.010381117}
+      rotation: {x: 0, y: 0, z: 0.7197642, w: 0.69421864}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_OmbroD
+      parentName: joint_Peito
+      position: {x: -0.056915134, y: 0.0234713, z: 0.008588125}
+      rotation: {x: 0.7139652, y: 0.6994255, z: 0.022244843, w: 0.023726152}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_CotoveloD
+      parentName: joint_OmbroD
+      position: {x: 0.00000042624438, y: -0.07184114, z: -0.010381101}
+      rotation: {x: 0.03927881, y: 0.00038427254, z: 0.001919955, w: 0.99922645}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_MaoD
+      parentName: joint_CotoveloD
+      position: {x: -0.00000018060375, y: -0.11253344, z: 0.010381098}
+      rotation: {x: 0, y: 0, z: 0.7197642, w: 0.69421864}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_pernaE
+      parentName: joint_COG
+      position: {x: 0.029233336, y: -0.0051276814, z: -0.0071740276}
+      rotation: {x: 0.011761503, y: 0.000072282804, z: 0.99951833, w: -0.028719323}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_joelhoE
+      parentName: joint_pernaE
+      position: {x: 3.2099687e-17, y: 0.054080356, z: -0.01092379}
+      rotation: {x: 0.021322852, y: 0.00093686726, z: -0.023948226, w: 0.9994854}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_PeE
+      parentName: joint_joelhoE
+      position: {x: 1.281839e-16, y: 0.052765753, z: 0.034629107}
+      rotation: {x: 0.011757817, y: 0.00030337845, z: 0.99992746, w: -0.0026103456}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_PontaPeE
+      parentName: joint_PeE
+      position: {x: -0.0000000012622517, y: -0.003623377, z: -0.06694259}
+      rotation: {x: 0.021257447, y: 0.00136782, z: -0.002032978, w: 0.9997711}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_pernaD
+      parentName: joint_COG
+      position: {x: -0.029105416, y: -0.0058096675, z: -0.007174035}
+      rotation: {x: 0.017092515, y: 0.9997881, z: 0.00006348212, w: 0.011470616}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_joelhoD
+      parentName: joint_pernaD
+      position: {x: -0.000000032610643, y: -0.054080646, z: 0.01092378}
+      rotation: {x: 0.02133518, y: 0.00093645987, z: -0.023922985, w: 0.99948573}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_PeD
+      parentName: joint_joelhoD
+      position: {x: -9.7699626e-17, y: -0.0527658, z: -0.034629077}
+      rotation: {x: -0.0025457738, y: 0.999931, z: -0.00029594594, w: -0.011466973}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_PontaPeD
+      parentName: joint_PeD
+      position: {x: -2.5585423e-11, y: -0.00362338, z: -0.0669426}
+      rotation: {x: 0.99977076, y: 0.0020461043, z: 0.0013704305, w: -0.021270297}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 070129232b64913439af85f4b2684f6b,
+    type: 3}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

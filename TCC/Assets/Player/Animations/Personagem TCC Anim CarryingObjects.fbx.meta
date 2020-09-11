@@ -1,0 +1,452 @@
+fileFormatVersion: 2
+guid: 26e012b14ec46be4fb7977a65f60dcca
+timeCreated: 1489755294
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: back
+    100002: bottom
+    100004: Char_J_1
+    100006: Char_J_2
+    100008: Char_J_2 1
+    100010: group8
+    100012: ikHandle1
+    100014: ikHandle2
+    100016: joint_Cabeca
+    100018: joint_COG
+    100020: joint_CotoveloD
+    100022: joint_CotoveloE
+    100024: joint_joelhoD
+    100026: joint_joelhoE
+    100028: joint_MaoD
+    100030: joint_MaoE
+    100032: joint_OmbroD
+    100034: joint_OmbroE
+    100036: joint_PeD
+    100038: joint_PeE
+    100040: joint_Peito
+    100042: joint_pernaD
+    100044: joint_pernaE
+    100046: joint_Pescoco
+    100048: joint_PontaPeD
+    100050: joint_PontaPeE
+    100052: joint_ROOT
+    100054: left
+    100056: //RootNode
+    100058: nurbsCircle1
+    100060: nurbsCircle10
+    100062: nurbsCircle11
+    100064: nurbsCircle12
+    100066: nurbsCircle13
+    100068: nurbsCircle14
+    100070: nurbsCircle15
+    100072: nurbsCircle16
+    100074: nurbsCircle17
+    100076: nurbsCircle2
+    100078: nurbsCircle3
+    100080: nurbsCircle4
+    100082: nurbsCircle5
+    100084: nurbsCircle6
+    100086: nurbsCircle7
+    100088: nurbsCircle8
+    100090: nurbsCircle9
+    100092: pCube39
+    100094: pCube40
+    100096: pCube43
+    100098: pCube45
+    100100: pCube46
+    100102: pCube47
+    100104: pCube48
+    100106: pCube49
+    100108: pCube5
+    100110: pCube50
+    100112: pCube51
+    100114: pCube52
+    100116: pCube8
+    100118: pCube8 1
+    100120: polySurface219
+    100122: polySurface224
+    100124: polySurface225
+    100126: polySurface226
+    100128: polySurface227
+    100130: polySurface229
+    100132: polySurface230
+    100134: polySurface231
+    100136: polySurface232
+    100138: polySurface234
+    100140: polySurface71
+    100142: polySurface8
+    100144: Text_J_1
+    100146: Text_J_2
+    100148: Text_J_3
+    100150: transform15
+    100152: transform16
+    100154: transform17
+    100156: transform18
+    100158: transform19
+    100160: transform20
+    100162: transform21
+    100164: transform22
+    100166: transform23
+    100168: transform24
+    100170: transform25
+    400000: back
+    400002: bottom
+    400004: Char_J_1
+    400006: Char_J_2
+    400008: Char_J_2 1
+    400010: group8
+    400012: ikHandle1
+    400014: ikHandle2
+    400016: joint_Cabeca
+    400018: joint_COG
+    400020: joint_CotoveloD
+    400022: joint_CotoveloE
+    400024: joint_joelhoD
+    400026: joint_joelhoE
+    400028: joint_MaoD
+    400030: joint_MaoE
+    400032: joint_OmbroD
+    400034: joint_OmbroE
+    400036: joint_PeD
+    400038: joint_PeE
+    400040: joint_Peito
+    400042: joint_pernaD
+    400044: joint_pernaE
+    400046: joint_Pescoco
+    400048: joint_PontaPeD
+    400050: joint_PontaPeE
+    400052: joint_ROOT
+    400054: left
+    400056: //RootNode
+    400058: nurbsCircle1
+    400060: nurbsCircle10
+    400062: nurbsCircle11
+    400064: nurbsCircle12
+    400066: nurbsCircle13
+    400068: nurbsCircle14
+    400070: nurbsCircle15
+    400072: nurbsCircle16
+    400074: nurbsCircle17
+    400076: nurbsCircle2
+    400078: nurbsCircle3
+    400080: nurbsCircle4
+    400082: nurbsCircle5
+    400084: nurbsCircle6
+    400086: nurbsCircle7
+    400088: nurbsCircle8
+    400090: nurbsCircle9
+    400092: pCube39
+    400094: pCube40
+    400096: pCube43
+    400098: pCube45
+    400100: pCube46
+    400102: pCube47
+    400104: pCube48
+    400106: pCube49
+    400108: pCube5
+    400110: pCube50
+    400112: pCube51
+    400114: pCube52
+    400116: pCube8
+    400118: pCube8 1
+    400120: polySurface219
+    400122: polySurface224
+    400124: polySurface225
+    400126: polySurface226
+    400128: polySurface227
+    400130: polySurface229
+    400132: polySurface230
+    400134: polySurface231
+    400136: polySurface232
+    400138: polySurface234
+    400140: polySurface71
+    400142: polySurface8
+    400144: Text_J_1
+    400146: Text_J_2
+    400148: Text_J_3
+    400150: transform15
+    400152: transform16
+    400154: transform17
+    400156: transform18
+    400158: transform19
+    400160: transform20
+    400162: transform21
+    400164: transform22
+    400166: transform23
+    400168: transform24
+    400170: transform25
+    4300000: pCube52
+    7400000: Carrying
+    9500000: //RootNode
+    13700000: pCube52
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Carrying
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: back
+        weight: 1
+      - path: bottom
+        weight: 1
+      - path: group8
+        weight: 1
+      - path: group8/pCube8 1
+        weight: 1
+      - path: group8/pCube8 1/transform18
+        weight: 1
+      - path: group8/pCube39
+        weight: 1
+      - path: group8/pCube40
+        weight: 1
+      - path: group8/pCube40/transform17
+        weight: 1
+      - path: group8/pCube43
+        weight: 1
+      - path: group8/pCube43/transform16
+        weight: 1
+      - path: group8/pCube45
+        weight: 1
+      - path: group8/pCube45/transform15
+        weight: 1
+      - path: group8/pCube46
+        weight: 1
+      - path: group8/pCube47
+        weight: 1
+      - path: group8/pCube48
+        weight: 1
+      - path: group8/pCube49
+        weight: 1
+      - path: group8/pCube50
+        weight: 1
+      - path: ikHandle1
+        weight: 1
+      - path: ikHandle2
+        weight: 1
+      - path: joint_ROOT
+        weight: 1
+      - path: joint_ROOT/joint_COG
+        weight: 1
+      - path: joint_ROOT/joint_COG/joint_Peito
+        weight: 1
+      - path: joint_ROOT/joint_COG/joint_Peito/joint_OmbroD
+        weight: 1
+      - path: joint_ROOT/joint_COG/joint_Peito/joint_OmbroD/joint_CotoveloD
+        weight: 1
+      - path: joint_ROOT/joint_COG/joint_Peito/joint_OmbroD/joint_CotoveloD/joint_MaoD
+        weight: 1
+      - path: joint_ROOT/joint_COG/joint_Peito/joint_OmbroE
+        weight: 1
+      - path: joint_ROOT/joint_COG/joint_Peito/joint_OmbroE/joint_CotoveloE
+        weight: 1
+      - path: joint_ROOT/joint_COG/joint_Peito/joint_OmbroE/joint_CotoveloE/joint_MaoE
+        weight: 1
+      - path: joint_ROOT/joint_COG/joint_Peito/joint_Pescoco
+        weight: 1
+      - path: joint_ROOT/joint_COG/joint_Peito/joint_Pescoco/joint_Cabeca
+        weight: 1
+      - path: joint_ROOT/joint_COG/joint_pernaD
+        weight: 1
+      - path: joint_ROOT/joint_COG/joint_pernaD/joint_joelhoD
+        weight: 1
+      - path: joint_ROOT/joint_COG/joint_pernaD/joint_joelhoD/joint_PeD
+        weight: 1
+      - path: joint_ROOT/joint_COG/joint_pernaD/joint_joelhoD/joint_PeD/joint_PontaPeD
+        weight: 1
+      - path: joint_ROOT/joint_COG/joint_pernaE
+        weight: 1
+      - path: joint_ROOT/joint_COG/joint_pernaE/joint_joelhoE
+        weight: 1
+      - path: joint_ROOT/joint_COG/joint_pernaE/joint_joelhoE/joint_PeE
+        weight: 1
+      - path: joint_ROOT/joint_COG/joint_pernaE/joint_joelhoE/joint_PeE/joint_PontaPeE
+        weight: 1
+      - path: left
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle2
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle2/nurbsCircle3
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle2/nurbsCircle16
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle4
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle4/nurbsCircle5
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle4/nurbsCircle17
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle6
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle6/nurbsCircle7
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle6/nurbsCircle7/nurbsCircle8
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle6/nurbsCircle7/nurbsCircle8/nurbsCircle10
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle6/nurbsCircle7/nurbsCircle8/nurbsCircle10/nurbsCircle11
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle6/nurbsCircle7/nurbsCircle9
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle6/nurbsCircle7/nurbsCircle9/nurbsCircle13
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle6/nurbsCircle7/nurbsCircle9/nurbsCircle13/nurbsCircle12
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle6/nurbsCircle7/nurbsCircle14
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle6/nurbsCircle7/nurbsCircle14/nurbsCircle15
+        weight: 1
+      - path: pCube5
+        weight: 1
+      - path: pCube8
+        weight: 1
+      - path: pCube8/transform19
+        weight: 1
+      - path: pCube51
+        weight: 1
+      - path: pCube51/transform24
+        weight: 1
+      - path: pCube52
+        weight: 1
+      - path: polySurface8
+        weight: 1
+      - path: polySurface71
+        weight: 1
+      - path: polySurface219
+        weight: 1
+      - path: polySurface219/polySurface224
+        weight: 1
+      - path: polySurface219/polySurface224/transform21
+        weight: 1
+      - path: polySurface219/polySurface225
+        weight: 1
+      - path: polySurface219/polySurface225/transform22
+        weight: 1
+      - path: polySurface219/polySurface226
+        weight: 1
+      - path: polySurface219/polySurface226/transform20
+        weight: 1
+      - path: polySurface219/polySurface227
+        weight: 1
+      - path: polySurface219/polySurface227/polySurface231
+        weight: 1
+      - path: polySurface219/polySurface227/polySurface232
+        weight: 1
+      - path: polySurface219/polySurface227/polySurface234
+        weight: 1
+      - path: polySurface219/polySurface227/transform23
+        weight: 1
+      - path: polySurface229
+        weight: 1
+      - path: polySurface229/polySurface230
+        weight: 1
+      - path: Text_J_1
+        weight: 1
+      - path: Text_J_1/Char_J_1
+        weight: 1
+      - path: Text_J_2
+        weight: 1
+      - path: Text_J_2/Char_J_2
+        weight: 1
+      - path: Text_J_3
+        weight: 1
+      - path: Text_J_3/Char_J_2 1
+        weight: 1
+      - path: transform25
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 9cb41b4fd8ec1024dbcd17b5ea52909e,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

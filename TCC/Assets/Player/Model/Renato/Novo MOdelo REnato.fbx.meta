@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: 55ea41c802f804c4dbf097a32c298890
+timeCreated: 1497275003
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: joint_Cabeca
+    100002: joint_COG
+    100004: joint_CotoveloD
+    100006: joint_CotoveloE
+    100008: joint_joelhoD
+    100010: joint_joelhoE
+    100012: joint_MaoD
+    100014: joint_MaoE
+    100016: joint_OmbroD
+    100018: joint_OmbroE
+    100020: joint_PeD
+    100022: joint_PeE
+    100024: joint_Peito
+    100026: joint_pernaD
+    100028: joint_pernaE
+    100030: joint_Pescoco
+    100032: joint_PontaPeD
+    100034: joint_PontaPeE
+    100036: joint_ROOT
+    100038: //RootNode
+    100040: nurbsCircle1
+    100042: nurbsCircle10
+    100044: nurbsCircle11
+    100046: nurbsCircle12
+    100048: nurbsCircle13
+    100050: nurbsCircle14
+    100052: nurbsCircle15
+    100054: nurbsCircle2
+    100056: nurbsCircle3
+    100058: nurbsCircle4
+    100060: nurbsCircle5
+    100062: nurbsCircle6
+    100064: nurbsCircle7
+    100066: nurbsCircle8
+    100068: nurbsCircle9
+    100070: pCube53
+    400000: joint_Cabeca
+    400002: joint_COG
+    400004: joint_CotoveloD
+    400006: joint_CotoveloE
+    400008: joint_joelhoD
+    400010: joint_joelhoE
+    400012: joint_MaoD
+    400014: joint_MaoE
+    400016: joint_OmbroD
+    400018: joint_OmbroE
+    400020: joint_PeD
+    400022: joint_PeE
+    400024: joint_Peito
+    400026: joint_pernaD
+    400028: joint_pernaE
+    400030: joint_Pescoco
+    400032: joint_PontaPeD
+    400034: joint_PontaPeE
+    400036: joint_ROOT
+    400038: //RootNode
+    400040: nurbsCircle1
+    400042: nurbsCircle10
+    400044: nurbsCircle11
+    400046: nurbsCircle12
+    400048: nurbsCircle13
+    400050: nurbsCircle14
+    400052: nurbsCircle15
+    400054: nurbsCircle2
+    400056: nurbsCircle3
+    400058: nurbsCircle4
+    400060: nurbsCircle5
+    400062: nurbsCircle6
+    400064: nurbsCircle7
+    400066: nurbsCircle8
+    400068: nurbsCircle9
+    400070: pCube53
+    4300000: pCube53
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: pCube53
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

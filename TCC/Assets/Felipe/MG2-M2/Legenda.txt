@@ -1,0 +1,7 @@
+Legenda
+
+Npcs = Rosa
+
+Relogios = Azul
+
+Torneiras = Verde

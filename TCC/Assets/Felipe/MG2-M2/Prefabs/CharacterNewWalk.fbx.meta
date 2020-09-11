@@ -1,0 +1,276 @@
+fileFormatVersion: 2
+guid: 7d72b4d800cb2eb47abe36296444ae4a
+timeCreated: 1491911517
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: back
+    100002: bottom
+    100004: Char_J_1
+    100006: Char_J_2
+    100008: Char_J_2 1
+    100010: //RootNode
+    100012: group8
+    100014: ikHandle1
+    100016: ikHandle2
+    100018: joint_Cabeca
+    100020: joint_COG
+    100022: joint_CotoveloD
+    100024: joint_CotoveloE
+    100026: joint_joelhoD
+    100028: joint_joelhoE
+    100030: joint_MaoD
+    100032: joint_MaoE
+    100034: joint_OmbroD
+    100036: joint_OmbroE
+    100038: joint_PeD
+    100040: joint_PeE
+    100042: joint_Peito
+    100044: joint_pernaD
+    100046: joint_pernaE
+    100048: joint_Pescoco
+    100050: joint_PontaPeD
+    100052: joint_PontaPeE
+    100054: joint_ROOT
+    100056: left
+    100058: nurbsCircle1
+    100060: nurbsCircle10
+    100062: nurbsCircle11
+    100064: nurbsCircle12
+    100066: nurbsCircle13
+    100068: nurbsCircle14
+    100070: nurbsCircle15
+    100072: nurbsCircle16
+    100074: nurbsCircle17
+    100076: nurbsCircle2
+    100078: nurbsCircle3
+    100080: nurbsCircle4
+    100082: nurbsCircle5
+    100084: nurbsCircle6
+    100086: nurbsCircle7
+    100088: nurbsCircle8
+    100090: nurbsCircle9
+    100092: pCube39
+    100094: pCube40
+    100096: pCube43
+    100098: pCube45
+    100100: pCube46
+    100102: pCube47
+    100104: pCube48
+    100106: pCube49
+    100108: pCube5
+    100110: pCube50
+    100112: pCube51
+    100114: pCube52
+    100116: pCube53
+    100118: pCube54
+    100120: pCube55
+    100122: pCube56
+    100124: pCube57
+    100126: pCube8
+    100128: pCube8 1
+    100130: polySurface219
+    100132: polySurface224
+    100134: polySurface225
+    100136: polySurface226
+    100138: polySurface227
+    100140: polySurface229
+    100142: polySurface230
+    100144: polySurface231
+    100146: polySurface232
+    100148: polySurface234
+    100150: polySurface71
+    100152: polySurface8
+    100154: Text_J_1
+    100156: Text_J_2
+    100158: Text_J_3
+    100160: transform15
+    100162: transform16
+    100164: transform17
+    100166: transform18
+    100168: transform19
+    100170: transform20
+    100172: transform21
+    100174: transform22
+    100176: transform23
+    100178: transform24
+    100180: transform25
+    400000: back
+    400002: bottom
+    400004: Char_J_1
+    400006: Char_J_2
+    400008: Char_J_2 1
+    400010: //RootNode
+    400012: group8
+    400014: ikHandle1
+    400016: ikHandle2
+    400018: joint_Cabeca
+    400020: joint_COG
+    400022: joint_CotoveloD
+    400024: joint_CotoveloE
+    400026: joint_joelhoD
+    400028: joint_joelhoE
+    400030: joint_MaoD
+    400032: joint_MaoE
+    400034: joint_OmbroD
+    400036: joint_OmbroE
+    400038: joint_PeD
+    400040: joint_PeE
+    400042: joint_Peito
+    400044: joint_pernaD
+    400046: joint_pernaE
+    400048: joint_Pescoco
+    400050: joint_PontaPeD
+    400052: joint_PontaPeE
+    400054: joint_ROOT
+    400056: left
+    400058: nurbsCircle1
+    400060: nurbsCircle10
+    400062: nurbsCircle11
+    400064: nurbsCircle12
+    400066: nurbsCircle13
+    400068: nurbsCircle14
+    400070: nurbsCircle15
+    400072: nurbsCircle16
+    400074: nurbsCircle17
+    400076: nurbsCircle2
+    400078: nurbsCircle3
+    400080: nurbsCircle4
+    400082: nurbsCircle5
+    400084: nurbsCircle6
+    400086: nurbsCircle7
+    400088: nurbsCircle8
+    400090: nurbsCircle9
+    400092: pCube39
+    400094: pCube40
+    400096: pCube43
+    400098: pCube45
+    400100: pCube46
+    400102: pCube47
+    400104: pCube48
+    400106: pCube49
+    400108: pCube5
+    400110: pCube50
+    400112: pCube51
+    400114: pCube52
+    400116: pCube53
+    400118: pCube54
+    400120: pCube55
+    400122: pCube56
+    400124: pCube57
+    400126: pCube8
+    400128: pCube8 1
+    400130: polySurface219
+    400132: polySurface224
+    400134: polySurface225
+    400136: polySurface226
+    400138: polySurface227
+    400140: polySurface229
+    400142: polySurface230
+    400144: polySurface231
+    400146: polySurface232
+    400148: polySurface234
+    400150: polySurface71
+    400152: polySurface8
+    400154: Text_J_1
+    400156: Text_J_2
+    400158: Text_J_3
+    400160: transform15
+    400162: transform16
+    400164: transform17
+    400166: transform18
+    400168: transform19
+    400170: transform20
+    400172: transform21
+    400174: transform22
+    400176: transform23
+    400178: transform24
+    400180: transform25
+    2300000: pCube53
+    2300002: pCube54
+    2300004: pCube55
+    2300006: pCube56
+    2300008: pCube57
+    3300000: pCube53
+    3300002: pCube54
+    3300004: pCube55
+    3300006: pCube56
+    3300008: pCube57
+    4300000: pCube52
+    4300002: pCube53
+    4300004: pCube54
+    4300006: pCube55
+    4300008: pCube56
+    4300010: pCube57
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: pCube52
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

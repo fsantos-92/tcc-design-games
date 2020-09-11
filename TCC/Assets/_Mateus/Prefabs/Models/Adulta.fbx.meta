@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: f9f55ceff2eac7c45b4deb35f96eeed4
+timeCreated: 1495667323
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: joint_Cabeca
+    100004: joint_Cog
+    100006: joint_CotoveloD
+    100008: joint_CotoveloE
+    100010: joint_JoelhoD
+    100012: joint_JoelhoE
+    100014: joint_MaoD
+    100016: joint_MaoE
+    100018: joint_OmbroD
+    100020: joint_OmbroE
+    100022: joint_PeD
+    100024: joint_PeE
+    100026: joint_Peito
+    100028: joint_PernaD
+    100030: joint_PernaE
+    100032: joint_Pescoco
+    100034: joint_PontaPeD
+    100036: joint_PontaPeE
+    100038: nurbsCircle1
+    100040: nurbsCircle10
+    100042: nurbsCircle11
+    100044: nurbsCircle12
+    100046: nurbsCircle13
+    100048: nurbsCircle14
+    100050: nurbsCircle15
+    100052: nurbsCircle2
+    100054: nurbsCircle3
+    100056: nurbsCircle4
+    100058: nurbsCircle5
+    100060: nurbsCircle6
+    100062: nurbsCircle7
+    100064: nurbsCircle8
+    100066: nurbsCircle9
+    100068: polySurface1
+    400000: //RootNode
+    400002: joint_Cabeca
+    400004: joint_Cog
+    400006: joint_CotoveloD
+    400008: joint_CotoveloE
+    400010: joint_JoelhoD
+    400012: joint_JoelhoE
+    400014: joint_MaoD
+    400016: joint_MaoE
+    400018: joint_OmbroD
+    400020: joint_OmbroE
+    400022: joint_PeD
+    400024: joint_PeE
+    400026: joint_Peito
+    400028: joint_PernaD
+    400030: joint_PernaE
+    400032: joint_Pescoco
+    400034: joint_PontaPeD
+    400036: joint_PontaPeE
+    400038: nurbsCircle1
+    400040: nurbsCircle10
+    400042: nurbsCircle11
+    400044: nurbsCircle12
+    400046: nurbsCircle13
+    400048: nurbsCircle14
+    400050: nurbsCircle15
+    400052: nurbsCircle2
+    400054: nurbsCircle3
+    400056: nurbsCircle4
+    400058: nurbsCircle5
+    400060: nurbsCircle6
+    400062: nurbsCircle7
+    400064: nurbsCircle8
+    400066: nurbsCircle9
+    400068: polySurface1
+    4300000: polySurface1
+    9500000: //RootNode
+    13700000: polySurface1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 6
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

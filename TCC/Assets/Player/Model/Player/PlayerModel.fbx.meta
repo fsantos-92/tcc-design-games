@@ -1,0 +1,250 @@
+fileFormatVersion: 2
+guid: 310f8dbcb1eb7b24e89a03a459b36c46
+timeCreated: 1496590096
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: back
+    100002: bottom
+    100004: Char_J_1
+    100006: Char_J_2
+    100008: Char_J_2 1
+    100010: group8
+    100012: ikHandle1
+    100014: ikHandle2
+    100016: joint_Cabeca
+    100018: joint_COG
+    100020: joint_CotoveloD
+    100022: joint_CotoveloE
+    100024: joint_joelhoD
+    100026: joint_joelhoE
+    100028: joint_MaoD
+    100030: joint_MaoE
+    100032: joint_OmbroD
+    100034: joint_OmbroE
+    100036: joint_PeD
+    100038: joint_PeE
+    100040: joint_Peito
+    100042: joint_pernaD
+    100044: joint_pernaE
+    100046: joint_Pescoco
+    100048: joint_PontaPeD
+    100050: joint_PontaPeE
+    100052: joint_ROOT
+    100054: left
+    100056: nurbsCircle1
+    100058: nurbsCircle10
+    100060: nurbsCircle11
+    100062: nurbsCircle12
+    100064: nurbsCircle13
+    100066: nurbsCircle14
+    100068: nurbsCircle15
+    100070: nurbsCircle16
+    100072: nurbsCircle17
+    100074: nurbsCircle2
+    100076: nurbsCircle3
+    100078: nurbsCircle4
+    100080: nurbsCircle5
+    100082: nurbsCircle6
+    100084: nurbsCircle7
+    100086: nurbsCircle8
+    100088: nurbsCircle9
+    100090: pCube39
+    100092: pCube40
+    100094: pCube43
+    100096: pCube45
+    100098: pCube46
+    100100: pCube47
+    100102: pCube48
+    100104: pCube49
+    100106: pCube5
+    100108: pCube50
+    100110: pCube51
+    100112: pCube52
+    100114: pCube8
+    100116: pCube8 1
+    100118: //RootNode
+    100120: polySurface219
+    100122: polySurface224
+    100124: polySurface225
+    100126: polySurface226
+    100128: polySurface227
+    100130: polySurface229
+    100132: polySurface230
+    100134: polySurface231
+    100136: polySurface232
+    100138: polySurface234
+    100140: polySurface71
+    100142: polySurface8
+    100144: Text_J_1
+    100146: Text_J_2
+    100148: Text_J_3
+    100150: transform15
+    100152: transform16
+    100154: transform17
+    100156: transform18
+    100158: transform19
+    100160: transform20
+    100162: transform21
+    100164: transform22
+    100166: transform23
+    100168: transform24
+    100170: transform25
+    400000: back
+    400002: bottom
+    400004: Char_J_1
+    400006: Char_J_2
+    400008: Char_J_2 1
+    400010: group8
+    400012: ikHandle1
+    400014: ikHandle2
+    400016: joint_Cabeca
+    400018: joint_COG
+    400020: joint_CotoveloD
+    400022: joint_CotoveloE
+    400024: joint_joelhoD
+    400026: joint_joelhoE
+    400028: joint_MaoD
+    400030: joint_MaoE
+    400032: joint_OmbroD
+    400034: joint_OmbroE
+    400036: joint_PeD
+    400038: joint_PeE
+    400040: joint_Peito
+    400042: joint_pernaD
+    400044: joint_pernaE
+    400046: joint_Pescoco
+    400048: joint_PontaPeD
+    400050: joint_PontaPeE
+    400052: joint_ROOT
+    400054: left
+    400056: nurbsCircle1
+    400058: nurbsCircle10
+    400060: nurbsCircle11
+    400062: nurbsCircle12
+    400064: nurbsCircle13
+    400066: nurbsCircle14
+    400068: nurbsCircle15
+    400070: nurbsCircle16
+    400072: nurbsCircle17
+    400074: nurbsCircle2
+    400076: nurbsCircle3
+    400078: nurbsCircle4
+    400080: nurbsCircle5
+    400082: nurbsCircle6
+    400084: nurbsCircle7
+    400086: nurbsCircle8
+    400088: nurbsCircle9
+    400090: pCube39
+    400092: pCube40
+    400094: pCube43
+    400096: pCube45
+    400098: pCube46
+    400100: pCube47
+    400102: pCube48
+    400104: pCube49
+    400106: pCube5
+    400108: pCube50
+    400110: pCube51
+    400112: pCube52
+    400114: pCube8
+    400116: pCube8 1
+    400118: //RootNode
+    400120: polySurface219
+    400122: polySurface224
+    400124: polySurface225
+    400126: polySurface226
+    400128: polySurface227
+    400130: polySurface229
+    400132: polySurface230
+    400134: polySurface231
+    400136: polySurface232
+    400138: polySurface234
+    400140: polySurface71
+    400142: polySurface8
+    400144: Text_J_1
+    400146: Text_J_2
+    400148: Text_J_3
+    400150: transform15
+    400152: transform16
+    400154: transform17
+    400156: transform18
+    400158: transform19
+    400160: transform20
+    400162: transform21
+    400164: transform22
+    400166: transform23
+    400168: transform24
+    400170: transform25
+    4300000: pCube52
+    9500000: //RootNode
+    13700000: pCube52
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
